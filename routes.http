@@ -1,0 +1,28 @@
+POST http://localhost:5555/videos
+Content-Type: application/json
+
+{
+    "title": "Video 01",
+    "description": "Esse é o primeiro video",
+    "duration" : 180
+}
+
+###
+
+GET http://localhost:5555/videos
+
+###
+
+PUT http://localhost:5555/videos/
+Content-Type: application/json
+
+{
+    "title": "Video Atualizado",
+    "description": "Atualização do video",
+    "duration" : 180
+}
+
+
+###
+
+DELETE http://localhost:5555/videos/8938cb4a-c6cd-4df7-9738-f33901b06621
