@@ -1,4 +1,4 @@
-# Car store with database - API
+# Video Platform - API
 
 Api with database, PostgreSQL inserted. As an example, a database was used to manage a fictitious car store.
 
@@ -20,5 +20,5 @@ Technologies used in the project: </br>
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp; </br>
 
 ## 3 How the project works?
-The project consists of an API system connected to the PostegreSQL database. </br> 
-It is possible to list cars, register, update and delete, in addition to having http requests, not just limited to mechanical requests.
+Api for a video platform, where it is possible to list, create, update and delete videos.</br>
+All user-side requests are made with http.
