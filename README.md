@@ -1,7 +1,6 @@
 # Video Platform - API
 
-Api with database, PostgreSQL inserted. As an example, a database was used to manage a fictitious car store.
-
+Api for a video system, with http routes.
 ## Summary
 - [How to set it up?](#1-how-to-set-it-up)
 - [Technologies used](#2-technologies-used)
